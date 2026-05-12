@@ -2,7 +2,7 @@
 
 **Your finances. Local. Encrypted. Yours.**
 
-Tenivel is a desktop personal finance manager that keeps all your financial data encrypted on your device. No cloud. No tracking. No telemetry.
+Tenivel is a desktop personal finance manager that keeps all your financial data encrypted on your device. No cloud. No tracking. No telemetry. 
 
 Built for people who believe privacy isn't a premium feature.
 
