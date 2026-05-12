@@ -74,8 +74,7 @@ You can also reach us at [support@tenivel.com](mailto:support@tenivel.com).
 - [Website](https://tenivel.com)
 - [Download](https://tenivel.com/download)
 - [Changelog](https://tenivel.com/changelog)
-- [Terms of Service (DE)](https://tenivel.com/docs/agb-de.pdf) · [Terms of Service (EN)](https://tenivel.com/docs/agb-en.pdf)
-- [Privacy Policy (DE)](https://tenivel.com/docs/datenschutz-de.pdf) · [Privacy Policy (EN)](https://tenivel.com/docs/datenschutz-en.pdf)
+
 
 ---
 
