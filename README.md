@@ -78,4 +78,4 @@ You can also reach us at [support@tenivel.com](mailto:support@tenivel.com).
 
 ---
 
-© 2024–2026 Maximilian Schanz · [tenivel.com](https://tenivel.com)
+© 2026 Maximilian Schanz · [tenivel.com](https://tenivel.com)
